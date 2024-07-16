@@ -1,0 +1,33 @@
+#home{
+    display: flex;
+    min-height: calc(100vh - 209px);
+}
+
+#cta{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    margin-top: 5%;
+}
+
+#cta .title{
+    font-size: 4rem;
+    color: #1d1d1d;
+}
+
+#cta .title span{
+    font-size: 4rem;
+    color: #ca44f6;
+}
+
+#cta .description{
+    font-size: 1.2rem;
+}
+
+
+
+
+.bannerSout{
+    width: 60%;
+}
