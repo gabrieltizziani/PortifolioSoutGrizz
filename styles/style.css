@@ -26,10 +26,6 @@ section{
     width: 50%;
 }
 
-
-
-
-
 .logoSout{
     width: 15%;
 }
@@ -37,3 +33,28 @@ section{
 .logoUnif{
     width: 10%;
 }
+
+.tituloExtensao{
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tituloExtensao span{
+    color: orange;
+    margin-left: 5px;
+    display: contents;
+}
+
+.descriptionExtensao{
+    font-size: 1.2rem;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
